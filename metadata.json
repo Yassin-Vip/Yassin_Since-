@@ -1,0 +1,6 @@
+{
+  "name": "Yassin Study 2027",
+  "description": "منصة تعليمية متكاملة لطلاب الصف الثالث الإعدادي في مصر 2026/2027 - دروس، امتحانات، مختبر تفاعلي، ومكتبة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
